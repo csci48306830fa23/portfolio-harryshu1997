@@ -2,5 +2,5 @@
 portfolio-harryshu1997 created by GitHub Classroom
 
 # Website Link
-[Website](https://wp.nyu.edu/artsampscience-harryshu/)
+[Website](https://wp.nyu.edu/artsampscience-harryshu/portfolio-vr/)
 
